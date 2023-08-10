@@ -82,4 +82,20 @@ https://github.com/RezixDev/analiza-polskiego-rynku-it
 
 Programistów znających Reacta.
 
+#### Ale czemu tak?
 
+Tak działa rynek: Zjawisko popytu i podaży. 
+
+Jak wszyscy początkujący uczą się Reacta, to wszyscy go znają i trudniej jest znaleźć pierwszą pracę z umiejętnością, którą każdy zna i na którą się wszyscy rekrutują. (1000 osób na jedno stanowisko). 
+
+Jeżeli umiecie coś co jest mniej popularne, gdzie jest mniejszy Hype, to macie możliwość łatwiej znaleźć pierwszą pracę. (100 osób na jedno stanowisko).
+
+## Czego się uczyć? W czym być dobrym?
+
+Do tego napisałem już poradnik:
+
+https://github.com/RezixDev/pierwsza-praca-programista
+
+Ogólna zasada jest taka, im wyższa jakość waszego programowania, tym łatwiej się sprzedać, tym łatwiej znaleźć pracę. 
+
+Powodzenia!
