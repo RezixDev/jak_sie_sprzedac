@@ -19,8 +19,8 @@ Jeżeli pójdziesz do firmy, na rozmowę kwalifikacyjną i powiesz: "Ja znam tyl
 Jeżeli powiesz: "Dzięki moim umiejętnościom uniknie wasza firma kar w wysokości setek tysięcy złotych", to już zmienia się pole widzenia.
 
 Twoja umiejętność HTMLa przekłada się na wartość dodatnią firmy. A jest nią brak kar za mało dostępne strony. 
-https://en.wikipedia.org/wiki/European_Accessibility_Act
 
+[Europejska ustawa o dostępności](https://pl.wikipedia.org/wiki/Europejska_ustawa_o_dost%C4%99pno%C5%9Bci)
 ## Ty tworzysz Produkt
 
 A im wyższa jakość Produktu, tym lepiej możesz go sprzedać. I za wyższą cenę.
